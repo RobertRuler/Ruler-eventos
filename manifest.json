@@ -1,0 +1,36 @@
+{
+  "name": "RULER Craft Beer",
+  "short_name": "RULER",
+  "description": "Sistema de gestión de reservas para eventos de RULER Craft Beer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#22c55e",
+  "theme_color": "#22c55e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
